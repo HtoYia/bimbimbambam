@@ -1,2 +1,2 @@
-# bimbimbambam
-bubububebebe
+# Содержание проекта
+В файле [[sources.md]] находятся ссылки на источники.
